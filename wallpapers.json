@@ -1,1 +1,66 @@
 
+{ 
+"wallpapers": 
+	[
+		{
+			"author": "Someone",
+			"url": "https://raw.githubusercontent.com/Deltabytes/penumbrawalls/master/wall1.JPG",
+			"name": "wallpaperA"
+		},
+		{
+			"author": "Someone",
+			"url": "https://raw.githubusercontent.com/Deltabytes/penumbrawalls/master/wall2.JPG",
+			"name": "wallpaperB"
+		},
+		{
+			"author": "Someone",
+			"url": "https://raw.githubusercontent.com/Deltabytes/penumbrawalls/master/wall3.JPG",
+			"name": "wallpaperC"
+		},
+		{
+			"author": "Someone",
+			"url": "https://raw.githubusercontent.com/Deltabytes/penumbrawalls/master/wall4.JPG",
+			"name": "wallpaperD"
+		},
+		{
+			"author": "Someone",
+			"url": "https://raw.githubusercontent.com/Deltabytes/penumbrawalls/master/wall5.JPG",
+			"name": "wallpaperE"
+		},
+		{
+			"author": "Someone",
+			"url": "https://raw.githubusercontent.com/Deltabytes/penumbrawalls/master/wall6.JPG",
+			"name": "wallpaperF"
+		},
+		{
+			"author": "Someone",
+			"url": "https://raw.githubusercontent.com/Deltabytes/penumbrawalls/master/wall7.JPG",
+			"name": "wallpaperG"
+		},
+		{
+			"author": "Someone",
+			"url": "https://raw.githubusercontent.com/Deltabytes/penumbrawalls/master/wall8.JPG",
+			"name": "wallpaperH"
+		}
+{
+			"author": "Someone",
+			"url": "https://raw.githubusercontent.com/Deltabytes/penumbrawalls/master/wall9.JPG",
+			"name": "wallpaperI"
+		},
+		{
+			"author": "Someone",
+			"url": "https://raw.githubusercontent.com/Deltabytes/penumbrawalls/master/wall10.JPG",
+			"name": "wallpaperJ"
+		},
+		{
+			"author": "Someone",
+			"url": "https://raw.githubusercontent.com/Deltabytes/penumbrawalls/master/wall11.JPG",
+			"name": "wallpaperK"
+		},
+		{
+			"author": "Someone",
+			"url": "https://raw.githubusercontent.com/Deltabytes/penumbrawalls/master/wall12.JPG",
+			"name": "wallpaperL"
+		}
+	]
+}
